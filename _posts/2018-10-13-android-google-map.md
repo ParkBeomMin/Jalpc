@@ -35,7 +35,7 @@ Google Maps SDK for Android 초기 셋팅하기
 
 상단에 프로젝트 선택을 눌러 새 프로젝트를 클릭합니다.
 
-<img src="../static/assets/img/blog/google_map_1/google_map_1.png">
+<img src="{{ site.img_path }}/google_map_1/google_map_1.png">
 
 <img src="../static/assets/img/blog/google_map_1/google_map_2.png">
 
