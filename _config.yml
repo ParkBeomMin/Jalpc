@@ -25,11 +25,9 @@ author:  # change following line to your infomation.
   skill_icon1:
     - name: fa-java
     - name: fa-android
-    - name: fa-vuejs
   skill_icon2:
     - name: fa-android
     - name: fa-java
-    - name: fa-vuejs
   desc: Hi. I like to develop applications.  # Describe yourself.
 
 # comment
