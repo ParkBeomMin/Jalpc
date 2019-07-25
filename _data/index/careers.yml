@@ -4,15 +4,15 @@
     detail: Hanyang Univ. ERICA 
     i18n: 
   desc:
-    detail: I entered Hanyang University.
+    detail: My university.
     i18n: 
   date:
-    detail: Mar. 2013
+    detail: Mar. 2013 ~ Aug. 2019
     i18n: 
   job:
     detail: Computer Science & Engineering
-    i18n: company_a_job
-  icon: fa-plus-square
+    i18n: 
+  icon: fa-university
 
 - name:
     detail: Join And Join
@@ -21,9 +21,23 @@
     detail: I worked at Join And Join.
     i18n: 
   date:
-    detail: Nov. 2017
+    detail: Nov. 2017 ~ Mar. 2019
     i18n: 
   job:
     detail: Head Developer, Main planner
     i18n: 
-  icon: fa-plus-square
+  icon: fa-building
+
+  - name:
+    detail: BoostCourse ACE SUMMER 1st
+    i18n: 
+  desc:
+    detail: Software scholarship student of CONNECT Foundation.
+    i18n: 
+  date:
+    detail: Jul. 2019 ~ Sept. 2019
+    i18n: 
+  job:
+    detail: Android
+    i18n: 
+  icon: fa-laptop-code
