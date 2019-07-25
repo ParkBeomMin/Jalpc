@@ -1,19 +1,52 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Silence Reservation(무음 예약)
+  i18n: 
+  gh_user: ParkBeomMin
+  repo: SilenceReservation
+  img: /static/assets/img/project/silence-reservation-logo.png
+  desc: Personal project. Can schedule silent settings for the set time.
+
+- name: MOA Homepage
+  i18n: 
+  url: https://m-o-a-5e4e9.firebaseapp.com/
+  img: /static/assets/img/project/moa-logo.png
+  desc: Team project in Join And Join. Introduce brand MOA. 
+
+- name: Join And Join Homepage
+  i18n: 
+  url: https://joinandjoin-69f3b.firebaseapp.com/
+  img: /static/assets/img/project/join-and-join-logo.png
+  desc: Team project in Join And Join. Introduce Join And Join Company. 
+
 - name: Darimi
   i18n: 
   gh_user: jisung0920
   repo: Darimi
   img: /static/assets/img/landing/darimi_logo.png
-  desc: This project is team project. In November, 2017, we received the Minister's Award. A laundry order management program for small business owners.
+  desc: Team project in Software Talent Donation Challenge. A laundry order management program for small business owners. In November, 2017, we received the Minister's Award.
 
 - name: ParkingOfAnsan
   i18n: 
   gh_user: ParkBeomMin
   repo: ParkingOfAnsan
   img: /static/assets/img/landing/parking_of_ansan_logo.png
-  desc: This project is team project. An app that searches public parking.
+  desc: Team project in college. Can search public parking.
+  
+- name: TogetherClass(함수 - 함께하는 수업)
+  i18n: 
+  gh_user: ParkBeomMin
+  repo: TogetherClass
+  img: /static/assets/img/project/together-class-logo.png
+  desc: Personal project in college. Can communicate student with professor in class.
+
+- name: ALPA
+  i18n: 
+  gh_user: ParkBeomMin
+  repo: ParkingOfAnsan
+  img: /static/assets/img/project/alpa-logo.png
+  desc: Team project in college. Can Communicate with ALPA Academy members.
 
 # - name: Google
 #   i18n: google
