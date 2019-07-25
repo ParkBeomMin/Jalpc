@@ -30,7 +30,7 @@
 - name: ParkingOfAnsan
   i18n: 
   gh_user: ParkBeomMin
-  repo: ParkingOfAnsan
+  repo: ParkingOfAnsan#parkingofansan
   img: /static/assets/img/landing/parking_of_ansan_logo.png
   desc: Team project in college. Can search public parking.
   
