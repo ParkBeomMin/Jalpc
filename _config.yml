@@ -1,20 +1,20 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: BeomMin's 19th Room
-description: BeomMin's blog, study android.
-keywords: ParkBeomMin,BeomMin,StevenPark,Steven,github,android,java,kotlin
-baseurl:  /homepage # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: https://parkbeommin.github.io/homepage  # url should be 'http://<github_username>.github.io/homepage' as before
+title: BeomMin's Portfolio
+description: BeomMin's portfolio.
+keywords: ParkBeomMin, BeomMin, StevenPark, Steven, github, android, java, kotlin, portfolio, developer, programmer
+baseurl:  /portfolio # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+url: https://parkbeommin.github.io/portfolio  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
-img_path: /homepage/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
+img_path: https://avatars0.githubusercontent.com/u/23355295?s=460&v=4  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
   name: ParkBeomMin  # Be used at blog posts' author.
   first_name: BeomMin  # Be used at index page about me section.
   last_name: Park  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  avatar: https://avatars0.githubusercontent.com/u/23355295?s=460&v=4  # upload your avatar at directory and edit it.
   github_username: ParkBeomMin  # Leave blank if you don't have now
   linkedin_id:  # Leave blank if you don't have now
   facebook_username: profile.php?id=100002067191552  # Leave blank if you don't have now
@@ -23,12 +23,14 @@ author:  # change following line to your infomation.
   cv: # http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: icon-apache
-    - name: fa-linux
+    - name: fa-java
+    - name: fa-android
+    - name: fa-vuejs
   skill_icon2:
-    - name: fa-linux
-    - name: icon-apache
-  desc: Introduce myself will be here.  # Describe yourself.
+    - name: fa-android
+    - name: fa-java
+    - name: fa-vuejs
+  desc: Hi. I like to develop applications.  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
@@ -52,7 +54,7 @@ donation: off  # type 'on'/'off' to choice display donation button at post page 
 
 ## carousels
 index_carousel: on  # index page carousel switch
-blog_carousel: on  # blog page carousel switch
+blog_carousel: off  # blog page carousel switch
 
 # scss
 sass:
