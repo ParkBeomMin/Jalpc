@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   name: ParkBeomMin  # Be used at blog posts' author.
   first_name: BeomMin  # Be used at index page about me section.
   last_name: Park  # Be used at index page about me section.
-  avatar: https://avatars0.githubusercontent.com/u/23355295?s=460&v=4  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/profile/profile.jpeg  # upload your avatar at directory and edit it.
   github_username: ParkBeomMin  # Leave blank if you don't have now
   linkedin_id:  # Leave blank if you don't have now
   facebook_username: profile.php?id=100002067191552  # Leave blank if you don't have now
