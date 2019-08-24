@@ -44,7 +44,7 @@
 - name: ALPA
   i18n: 
   gh_user: ParkBeomMin
-  repo: ParkingOfAnsan
+  repo: project_alpa
   img: /static/assets/img/project/alpa-logo.png
   desc: Team project in college. Can Communicate with ALPA Academy members.
 
