@@ -4,7 +4,7 @@
 - name: Silence Reservation(무음 예약)
   i18n: 
   gh_user: ParkBeomMin
-  repo: SilenceReservation
+  repo: SilenceReservation#silencereservation
   img: /static/assets/img/project/silence-reservation-logo.png
   desc: Personal project. Can schedule silent settings for the set time.
 
@@ -37,7 +37,7 @@
 - name: TogetherClass(함수 - 함께하는 수업)
   i18n: 
   gh_user: ParkBeomMin
-  repo: TogetherClass
+  repo: TogetherClass#togetherclass
   img: /static/assets/img/project/together-class-logo.png
   desc: Personal project in college. Can communicate student with professor in class.
 
